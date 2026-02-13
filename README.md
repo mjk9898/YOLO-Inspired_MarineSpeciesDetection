@@ -1,7 +1,7 @@
 # Introduction
 Welcome to the GitHub repository pertaining to our journal: _Automated Detection and Classification of Marine Species Vocalizations Using A YOLO-Based Deep Learning Framework_.
 
-**IN PROGRESS**
+**STILL IN PROGRESS. CODES WILL BE UPLOADED SHORTLY**
 
 # Files
 The repository contains the following files:
