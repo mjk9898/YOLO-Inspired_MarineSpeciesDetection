@@ -1,13 +1,12 @@
 # Introduction
-Welcome to the GitHub repository pertaining to our journal: _A 1D CNN approach for classification of marine species vocalizations with variable signal durations_.
+Welcome to the GitHub repository pertaining to our journal: _Automated Detection and Classification of Marine Species Vocalizations Using A YOLO-Based Deep Learning Framework_.
 
-Our research utilizes one-dimensional convolutional neural network (1D CNN) to classify the various marine mammal species using their raw acoustic signals.
 
 # Files
-The repository contains the following files, which pertains to each case (Case 1, Case 2, Case 3) used to validate our method:
-* 01_SingleCrop_No Data Augmentation.ipynb
-* 02_MultipleCrop_No Data Augmentation.ipynb
-* 03_MultipleCrop_Data Augmentation.ipynb
+The repository contains the following files:
+* 
+* 
+* 
 
 Our research utilized the Jupyter Notebook (.ipynb) for easier analysis and visualization. Please install Jupyter Notebook or use Google Colab, a free online Jupyter Notebook, to open the ipynb files. 
 
